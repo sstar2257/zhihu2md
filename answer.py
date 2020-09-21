@@ -4,7 +4,7 @@ import sys
 import json
 import re
 from pyquery import PyQuery as pq
-import _config, get, html2md, write
+import _config, get, json2md, write
 
 	
 def Parse(config):
